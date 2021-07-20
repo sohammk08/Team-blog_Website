@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+* {
+	background: #daf0ff;
+	margin-top: 0;
+}
+.nav-top {
+	display: flex;
+}
+.title {
+	margin-top: -5px;
+	margin-left: 5px;
+	margin-top: 25px;
+}
+.title h1 {
+	color: #24252a;
+	font-size: 3.2em;
+	font-family: 'Nanum Pen Script';
+}
+.nav {
+  display: flex;
+  margin-top: 30px;
+	margin-left: 200px;
+}
+.nav-op {
+  text-transform: uppercase;
+  list-style-type: none;
+  color: #24252a;
+  font-family: 'Poppins';
+  font-size: 15px;
+  margin-right: 100px;
+  margin-top: 15px;
+}
+.nav-op li a {
+  text-decoration: none;
+  color: #24252a;
+  transition: 0.6s ease 0s;
+}
+.f-row {
+	display: flex;
+	justify-content: center;
+}
+.bl1 {
+	max-width: 490px;
+	background: #fff;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	padding: 0px 10px 15px 0px;
+}
+.bl1 img {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	height: 350px;
+	width: 500px;
+}
+.bl1 h3 {
+	background: #fff;
+	color: #ae49f4;
+	font-size: 15px;
+	font-family: 'Montserrat';
+	text-transform: uppercase;
+	text-align: center;
+}
+.bl1 h2 {
+	background: #fff;
+	color: #24252a;
+	font-family: 'Poppins';
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: -10px;
+}
+.bl1 p {
+	background: #fff;
+	color: #24252a;
+	font-family: 'Poppins';
+	text-align: center;
+	margin-top: -10px;
+	padding: 0px 15px 0px 15px;
+}
+.auth_widget {
+	display: block;
+	background: #e9ff8f;
+	height: 500px;
+	width: 250px;
+	text-align: center;
+	border-radius: 10px;
+	margin: auto 25px auto 25px;
+}
+.auth_widget h2 {
+	background: #e9ff8f;
+	color: #24252a;
+	font-size: 35px;
+	font-family: 'Work Sans';
+	font-weight: 500;
+	text-transform: capitalize;
+	margin-top: 15px;
+}
+.auth_widget .auth_lk {
+	background: #e9ff8f;
+	margin-bottom: 40px;
+}
+.auth_lk li {
+	background: #e9ff8f;
+	color: #24252a;
+	list-style-type: none;
+}
+.auth_lk li a {
+	background: #e9ff8f;
+	color: #24252a;
+	font-size: 24px;
+	font-family: 'Cedarville Cursive';
+	text-decoration: none;
+	text-transform: capitalize;
+	transition: 0.4s ease 0s;
+}
+.ab-author {
+	background: #333;
+	width: 465px;
+	height: 625px;
+	text-align: center;
+	border-radius: 10px;
+	margin-top: 0px;
+}
+.ab-author img {
+	height: 320px;
+	width: 330px;
+	border-radius: 50%;
+	margin: 18px auto 18px auto;
+	box-shadow: #fff 0px 0px 19px 1px;
+}
+.auth_desc {
+	background: #333;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.auth_desc h3 {
+	background: #333;
+	color: #edf0f1;
+	font-family: 'Nanum Pen Script';
+	text-transform: lowercase;
+	font-size: 65px;
+	font-weight: 300;
+	margin-bottom: 0;
+	margin-top: -10px;
+}
+.auth_desc p {
+	background: #333;
+	color: #fff;
+	font-family: 'Poppins';
+	font-size: 14px;
+	margin: 0px 25px 0px 25px;
+}
+.BLR1, .BLR2, .BLR3, .BLR4, .BLR5 {
+	display: flex;
+	margin-bottom: 120px;
+	justify-content: center;
+}
+.BLR1 {
+	margin-top: 65px;
+}
+.bllrm {
+	margin-right: 135px;
+}
+.bl {
+	max-width: 490px;
+	background: #fff;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	padding: 0px 10px 15px 0px;
+	margin-left: -10px;
+}
+.bl img {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	height: 350px;
+	width: 500px;
+}
+.bl h3 {
+	background: #fff;
+	color: #7cf3a0;
+	font-size: 15px;
+	font-family: 'Montserrat';
+	text-transform: uppercase;
+	text-align: center;
+}
+.bl h2 {
+	background: #fff;
+	color: #24252a;
+	font-family: 'Poppins';
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: -10px;
+}
+.bl p {
+	background: #fff;
+	color: #24252a;
+	font-family: 'Poppins';
+	text-align: center;
+	margin-top: -10px;
+	padding: 0px 15px 0px 15px;
+}
+.auth {
+	width: 500px;
+	height: 10px;
+	margin: -4px 0px 20px 0px;
+}
+.auth h3 {
+	background: #ffb347;
+	color: #edf0f1;
+	font-family: 'Poppins';
+	text-transform: capitalize;
+}
