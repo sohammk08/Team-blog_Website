@@ -213,3 +213,46 @@
 	font-family: 'Poppins';
 	text-transform: capitalize;
 }
+.btm_bar {
+	display: flex;
+  background: #957dad;
+  max-width: 1500px;
+  height: 150px;
+  margin-bottom: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+.bm_tle {
+	background: #957dad;
+	margin: 40px 0px auto 35px;
+}
+.btm_bar h2 {
+	color: #edf0f1;
+	background: #957dad;
+	font-size: 3.2em;
+	font-family: 'Nanum Pen Script';
+}
+.btm_bar .con-info {
+	color: #edf0f1;
+	background: #957dad;
+	text-align: center;
+	margin: 40px auto auto auto;
+}
+.con-info h3 {
+	color: #edf0f1;
+	background: #957dad;
+	font-family: 'Montserrat';
+	margin-bottom: 20px;
+}
+.bmbr-nav {
+	display: flex;
+	background: #957dad;
+	text-align: center;
+	margin: auto 0px auto 55px;
+}
+.bmbr-nav .nav-op,
+.bmbr-nav li,
+.bmbr-nav li a {
+	background: #957dad;
+	color: #edf0f1;
+}
