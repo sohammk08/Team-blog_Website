@@ -8,6 +8,12 @@ A blog website where multiple people can display their work.
 <li>Topic of the blog</li>
 <li>Short blog content</li>
 
+<h3>Check out the website at:</h3>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/61eb929c-91ec-44bb-b295-b745b2dc7f46/deploy-status)](https://app.netlify.com/sites/teamblog9375/deploys)
+
+https://teamblog9375.netlify.app/
+
 <h3>Versions/Updates</h3>
 <li>Version 1 released.</li>
 <li>Version 2 with bottom-bar update released.</li>
