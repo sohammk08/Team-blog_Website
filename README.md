@@ -10,4 +10,5 @@ A blog website where multiple people can display their work.
 
 <h3>Versions/Updates</h3>
 <li>Version 1 released.</li>
-<li>Version 2 update for the bottom-bar and attached pages coming soon.</li>
+<li>Version 2 with bottom-bar update released.</li>
+<li>Version 3 update for the attached pages coming soon.</li>
