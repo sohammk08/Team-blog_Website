@@ -1,0 +1,16 @@
+This contains credits for all the author images contained on the about page:
+#####################################
+Author 1:
+https://unsplash.com/photos/c_GmwfHBDzk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+#####################################
+Author 2:
+https://unsplash.com/photos/7fGYiTnnXM0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+#####################################
+Author 3:
+https://unsplash.com/photos/PzR_6o9UdkY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+#####################################
+Author 4:
+https://unsplash.com/photos/PrWMO0xpqyI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+#####################################
+Author 5:
+https://unsplash.com/photos/Ef3AOkt6hHg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
