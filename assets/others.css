@@ -14,20 +14,20 @@
 }
 .au-row_1 {
 	display: flex;
-	justify-content: center;
+	margin: 0px auto 65px auto;
 }
 .au-row_2 {
 	display: flex;
-	justify-content: center;
+	margin: 0px auto 65px auto;
 }
 .abauth_indt .abauth {
-	justify-content: center;
+	margin: 65px auto 65px auto;
 }
 .abauth {
 	max-width: 500px;
 	background: #fff;
-	border-top-left-radius: 10px;
-	border-top-right-radius: 10px;
+	border-radius: 10px;
+	margin-right: 75px;
 }
 .abauth img {
 	border-top-left-radius: 10px;
@@ -37,24 +37,26 @@
 .abauth h3 {
 	background: #fff;
 	color: #24252a;
+	font-size: 1.5em;
 	font-family: 'Poppins';
 	text-transform: capitalize;
 	text-align: center;
-	margin-top: -10px;
+	margin-top: 5px;
 }
 .abauth p {
 	background: #fff;
 	color: #24252a;
 	font-family: 'Poppins';
 	text-align: center;
-	margin-top: -10px;
+	margin-top: -17px;
 	padding: 0px 15px 0px 15px;
 }
-.abauth strong {
+.abauth h4 {
 	background: #fff;
 	color: #24252a;
-	font-family: 'Montserrat';
+	font-size: 1em;
+	font-family: 'Work Sans';
 	text-transform: lowercase;
-	margin-left: auto;
-	margin-right: auto;
+	text-align: center;
 }
+.abauth h4 strong {background: #fff;}
