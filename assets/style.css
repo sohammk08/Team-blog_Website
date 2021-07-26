@@ -23,7 +23,7 @@
 .nav {
   display: flex;
   margin-top: 30px;
-	margin-left: 200px;
+	margin-left: 165px;
 }
 .nav-op {
   text-transform: uppercase;
@@ -31,7 +31,7 @@
   color: #24252a;
   font-family: 'Poppins';
   font-size: 15px;
-  margin-right: 100px;
+  margin-right: 130px;
   margin-top: 15px;
 }
 .nav-op li a {
