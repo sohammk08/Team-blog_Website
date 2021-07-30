@@ -1,3 +1,7 @@
+.pgtle_cd {
+	display: flex;
+	justify-content: center;
+}
 .pg_title_cat h2 {
 	color: #7845d9;
 	font-size: 4em;
@@ -5,4 +9,64 @@
 	text-transform: capitalize;
 	font-family: 'Nanum Pen Script';
 	text-align: center;
+	margin: 0px 25px 0px 25px;
+}
+.tc_underline_1 {
+	background: #7845d9;
+	height: 3px;
+	width: 100px;
+	border-radius: 500%;
+	margin: 35px 0px 0px 50px;
+}
+.tc_underline_2 {
+	background: #7845d9;
+	height: 3px;
+	width: 100px;
+	border-radius: 500%;
+	margin: 35px 50px 0px 0px;
+}
+.au_row_1, .au_row_2 {
+	display: flex;
+	justify-content: center;
+}
+.aur {
+	max-width: 490px;
+	background: #fff;
+	border-radius: 10px;
+	padding: 0px 10px 15px 0px;
+	margin: 75px 0px 0px -10px;
+	margin-top: 60px;
+	margin-left: -10px;
+}
+.aur img {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	height: 350px;
+	width: 500px;
+}
+.aur h3 {
+	background: #fff;
+	color: #24252a;
+	font-size: 2em;
+	font-family: 'Cedarville Cursive';
+	text-transform: capitalize;
+	text-align: center;
+	margin-top: 10px;
+}
+.aur p {
+	background: #fff;
+	color: #24252a;
+	font-family: 'Poppins';
+	text-align: center;
+	padding: 0px 15px 0px 15px;
+	margin-top: -30px;
+}
+.aur h4 {
+	background: #fff;
+	color: #24252a;
+	font-family: 'Montserrat';
+	text-align: center;
+}
+.aur_ind .aur {
+	margin: 65px auto 65px auto;
 }
