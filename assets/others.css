@@ -1,0 +1,8 @@
+.pg_title_cat h2 {
+	color: #7845d9;
+	font-size: 4em;
+	font-weight: 500;
+	text-transform: capitalize;
+	font-family: 'Nanum Pen Script';
+	text-align: center;
+}
