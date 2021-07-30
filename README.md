@@ -17,4 +17,4 @@ https://teamblog9375.netlify.app/
 <h3>Versions/Updates</h3>
 <li>Version 1 released.</li>
 <li>Version 2 with bottom-bar update released.</li>
-<li>Version 3 update for the attached pages coming soon.</li>
+<li>Version 3 update for the attached pages released.</li>
