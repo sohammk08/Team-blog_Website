@@ -1,6 +1,8 @@
 <h2>Team-blog-website</h2>
 A blog website where multiple people can display their work.
 
+<img src="WBI_preview/preview.png">
+
 <h3>The following can be described in the blog:</h3>
 <li>A landscape image descriping the blog</li>
 <li>Name of the author</li>
