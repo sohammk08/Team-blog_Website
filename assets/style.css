@@ -22,7 +22,7 @@
 }
 .nav {
   display: flex;
-	margin: 30px 15px 0 auto;
+	margin: 30px 0 0 auto;
 }
 .nav-op {
   text-transform: uppercase;
@@ -32,9 +32,6 @@
   font-size: 15px;
   margin-right: 130px;
   margin-top: 15px;
-}
-.nav-op:nth-child(4) {
-	margin-right: 0;
 }
 .nav-op li a {
   text-decoration: none;
