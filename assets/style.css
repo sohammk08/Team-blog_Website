@@ -11,9 +11,9 @@
 	display: flex;
 }
 .title {
-	margin-top: -5px;
 	margin-left: 5px;
 	margin-top: 25px;
+	margin: 25px 0 0 5px ;
 }
 .title h1 {
 	color: #24252a;
@@ -22,8 +22,7 @@
 }
 .nav {
   display: flex;
-  margin-top: 30px;
-	margin-left: 165px;
+	margin: 30px 15px 0 auto;
 }
 .nav-op {
   text-transform: uppercase;
@@ -33,6 +32,9 @@
   font-size: 15px;
   margin-right: 130px;
   margin-top: 15px;
+}
+.nav-op:nth-child(4) {
+	margin-right: 0;
 }
 .nav-op li a {
   text-decoration: none;
